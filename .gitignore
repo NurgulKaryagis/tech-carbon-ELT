@@ -1,0 +1,27 @@
+# Ignore sensitive information
+**/parameters.json
+
+# Ignore local configuration files
+local.settings.json
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+
+
+.DS_Store
+*/.DS_Store
+**/.DS_Store

@@ -1,0 +1,12 @@
+{
+    "name": "TechCarbonServer",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://nzdpu.com/wis/",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+} 
